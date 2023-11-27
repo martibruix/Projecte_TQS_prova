@@ -1,0 +1,4 @@
+"scripts": {
+  "test": "jest",
+  "coverage": "jest --coverage"
+}
